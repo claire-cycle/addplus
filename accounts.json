@@ -1,6 +1,6 @@
 [
   {
     "name": "账户1",
-    "cookie": "__Host-authjs.csrf-token=50e7634d11b136639be74c116690754e96fcb3bc2c5e7960cdb2f0fe98ad0adf%7C9a2123d861d967e840aa33877c92cf39f24dd2fc5e952e9f17f17c0c76e4ccc5; __Secure-authjs.callback-url=https%3A%2F%2Faddplus.org%2F; __Secure-authjs.session-token=a514f565-61dd-4822-981f-c3606d16314e; cf_clearance=AlZAuoBOg_jy1tAzooVFjJhxmmhRz9TZ9O1gnWrZto4-1754274613-1.2.1.1-Dk3qjDd63MPjkwEVf6LeIjTTxznleoIfcWAfSN7kzYyxei_EKsP9_gkCQIHG_OZQ_4yDbNjuA92o5FEGyvxh7lzTk942LZTwl5g1rO0qSbGMz7v_zLpxt3etgqX4kZA4ChVGBUBElZzHbhCVxZ4kV5iKtKZh.T4iTS7cYWh9S9b4aZuk19piZqWlvGTJetw2s4Qw029Sa7UDrT63P4KSg7.ZGJ2UrWpwLiGKaRQwpPc"
+    "cookie": "你的cookie"
   }
 ]
